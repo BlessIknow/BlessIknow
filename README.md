@@ -2,9 +2,9 @@
 <h3 align="center">A Zealous Software Engineer and Tech Entrepreneur.</h3>
 <br>
 
-- 🔭 I’m currently working on **Front-end projects**
+- 🔭 I’m currently working on **Front-end projects and a Tech Start-up**
 
-- 🌱 I’m currently learning **React and Bootstrap**
+- 🌱 I’m currently learning **React, Bootstrap and Msc.Tech entrepreneurship**
 
 - 👯 I’m looking to collaborate on **Full Stack Web Applications And Tech business Ideas**
 

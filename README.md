@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, My name is Blessing Victor</h1>
-<h3 align="center">A Zealous Software Engineer and Tech Entrepreneur.</h3>
+<h3 align="center">A Tech Entrepreneur with a passion for managing and facilitating productive teams.</h3>
 <br>
 
 - 🔭 I’m currently working on **Front-end projects and a Tech Start-up**
